@@ -7,6 +7,8 @@ int main(){
 	cout << "And marge test" << endl;
 	cout << "on source tree" << endl;
 
+	cout << "good job" << endl;
+
    return 0;
 }
 
